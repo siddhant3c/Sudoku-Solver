@@ -11,6 +11,9 @@ B.Tech | Electrical Engineering | IIT Bombay
 
 This project aims to create a Sudoku solver using computer vision techniques and deep learning. The solver takes an image of a Sudoku puzzle as input, processes it using OpenCV and NumPy, utilizes a pre-trained deep learning model built with TensorFlow's Keras API to recognize the digits in the puzzle, and finally solves the puzzle using a backtracking algorithm.
 
+![Sudoku Solver Example](Images\1.jpg)
+![Sudoku Solver Example](Images\solver1.jpg)
+
 ## **Importing Libraries**
 
 We start by importing essential libraries for our project:
